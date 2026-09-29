@@ -1,0 +1,6 @@
+{
+  "name": "أوتار القلوب - مساحة رومانسية راقية",
+  "description": "صفحة ويب رومانسية متكاملة تضم رسائل عشق، عداد أيام الحب، شريط الذكريات، جرة أسباب حبي لك، وقصائد وألحان هادئة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
